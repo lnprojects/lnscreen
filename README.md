@@ -7,7 +7,6 @@
 ``` bash
 # install dependencies
 cnpm install
-
 cnpm install mock
 cnpm i element-ui -S
 cnpm install stylus --save
