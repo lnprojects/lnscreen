@@ -6,7 +6,15 @@
 
 ``` bash
 # install dependencies
-npm install
+cnpm install
+
+cnpm install mock
+cnpm i element-ui -S
+cnpm install stylus --save
+cnpm install stylus-loader --save
+cnpm install axios
+npm install jquery --save
+npm install echarts -S
 
 # serve with hot reload at localhost:8080
 npm run dev
